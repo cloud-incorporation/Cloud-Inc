@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Nowze</h1>
-<h3 align="center">Hi, I'm the Old Developer of 1336 Stealer, hope you will enjoy my work !  If you want to make me some feedback juste contact me on discord by my profile</h3>
+<h1 align="center">Hi 👋, I'm Iglitch</h1>
+<h3 align="center">Hi, I'm the  Developer, hope you will enjoy my work !  If you want to make me some feedback juste contact me on discord by my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowze" alt="nowze" /></a> </p>
 
-- 🔭 I’m currently working on [1336 St34ler](https://t.me/St34ler) (reverse engineering)
+- 🔭 I’m currently working on [Nothing](nothing) (reverse engineering)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
